@@ -2,3 +2,6 @@
 /data/**
 !/data/**/
 !/data/**/.gitkeep
+
+# Local Python virtual environment
+.venv/
