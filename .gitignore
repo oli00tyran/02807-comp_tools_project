@@ -1,0 +1,4 @@
+# Local source data and generated datasets
+/data/**
+!/data/**/
+!/data/**/.gitkeep
