@@ -6,3 +6,4 @@ pandas
 pyarrow
 seaborn
 scikit-learn
+datasketch
