@@ -5,3 +5,4 @@
 
 # Local Python virtual environment
 .venv/
+.idea
