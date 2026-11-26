@@ -7,3 +7,4 @@ pyarrow
 seaborn
 scikit-learn
 datasketch
+gensim
